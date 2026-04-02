@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 BOT_TOKEN = "8744958495:AAHzpbL95CLHV4J377Js2o7FdRgItZOoRqY"
-ADMIN_ID = 1063680173  
+ADMIN_ID = 6014927893  
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
